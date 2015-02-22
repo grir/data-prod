@@ -1,6 +1,6 @@
 ---
-title: "help"
-output: html_document
+title: "Help"
+
 ---
 ### Description
 This application demonstrates how to use [Monte Carlo simulataions](http://en.wikipedia.org/wiki/Monte_Carlo_method#Use_in_mathematics) to estimate an area of simple planar shapes. We choose an ellipse and a triangle belonging to the square [-1,1]x[-1,1]. Then we generate *N* random points from mentioned square and estimate the areas of the shapes using ratios between the number of the point belonging to the approriate shape and *N*.
